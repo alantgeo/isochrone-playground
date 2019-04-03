@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/main.scss"],"names":[],"mappings":"AAAA,eACI,WAAY,CAGhB,KACI,iBAAkB,CAClB,MAAO,CACP,QAAS,CACT,QAAS,CACT,UAAW","file":"main.f6274643.css","sourceRoot":"..","sourcesContent":["html, body, #app {\n    height: 100%;\n}\n\n#map {\n    position: absolute;\n    left: 0;\n    top: 60px;\n    bottom: 0;\n    width: 100%;\n}\n"]}

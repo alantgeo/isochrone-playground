@@ -1,0 +1,12 @@
+html, body, #app {
+  height: 100%; }
+
+#map {
+  position: absolute;
+  left: 0;
+  top: 60px;
+  bottom: 0;
+  width: 100%; }
+
+
+/*# sourceMappingURL=/isochrone-playground/main.78268e92.css.map */
