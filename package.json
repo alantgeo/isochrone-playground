@@ -1,0 +1,26 @@
+{
+  "name": "isochrone-playground",
+  "version": "1.0.0",
+  "description": "Isochrone Playground",
+  "main": "index.js",
+  "repository": "git@github.com:alantgeo/isochrone-playground",
+  "author": "Andrew Harvey <andrew@alantgeo.com.au>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html -d _site --no-minify --public-url='/isochrone-playground/'"
+  },
+  "dependencies": {
+    "@vue/component-compiler-utils": "^1.3.1",
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.9.7",
+    "vue-hot-reload-api": "^2.3.0",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "engines": {
+    "yarn": "*"
+  }
+}
